@@ -5,6 +5,5 @@ I'm a fullstack JS dev. I like making things
 [Replit Profile](https://replit.com/@CatR3kd)  
 [Website](https://CatR3kd.repl.co)
 
-### Currently Working On: (Aug. 2023)
-- [Birdwatch is done for now woohoo](https://replit.com/@CatR3kd/BIRDWATCH-Multiplayer-Text-Adventure?v=1)
-- secret stuff
+### Currently Working On: (Dec. 2023)
+- secret project, soon to come & VERY HYPE
